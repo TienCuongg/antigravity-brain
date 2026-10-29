@@ -1,0 +1,33 @@
+Command exited with code 0.
+
+Command output:
+frame:0    pts:40448   pts_time:3.291667
+lavfi.scene_score=0.573124
+frame:1    pts:88064   pts_time:7.166667
+lavfi.scene_score=0.480383
+frame:2    pts:114688  pts_time:9.333333
+lavfi.scene_score=0.553696
+frame:3    pts:139776  pts_time:11.375
+lavfi.scene_score=0.608386
+frame:4    pts:219648  pts_time:17.875
+lavfi.scene_score=0.607840
+frame:5    pts:292352  pts_time:23.791667
+lavfi.scene_score=0.528328
+frame:6    pts:334848  pts_time:27.25
+lavfi.scene_score=0.613434
+frame:7    pts:379904  pts_time:30.916667
+lavfi.scene_score=0.571405
+frame:8    pts:423424  pts_time:34.458333
+lavfi.scene_score=0.448569
+frame:9    pts:437760  pts_time:35.625
+lavfi.scene_score=0.479895
+frame:10   pts:478720  pts_time:38.958333
+lavfi.scene_score=0.564268
+frame:11   pts:552448  pts_time:44.958333
+lavfi.scene_score=0.492849
+frame:12   pts:630784  pts_time:51.333333
+lavfi.scene_score=0.542727
+frame:13   pts:663552  pts_time:54
+lavfi.scene_score=0.531161
+frame:14   pts:750592  pts_time:61.083333
+lavfi.scene_score=0.528070

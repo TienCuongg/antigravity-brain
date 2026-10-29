@@ -1,0 +1,5 @@
+Command exited with code 0.
+
+Command output:
+Initialized empty Git repository in C:/Users/tienc/.gemini/antigravity/brain/.git/
+Git initialized in brain directory!

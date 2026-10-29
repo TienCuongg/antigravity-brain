@@ -1,0 +1,55 @@
+Command exited with code 0.
+
+Command output:
+[youtube] Extracting URL: https://www.youtube.com/watch?v=bj6vm-_HObg
+[youtube] bj6vm-_HObg: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] bj6vm-_HObg: Downloading visionos player API JSON
+[youtube] bj6vm-_HObg: Downloading m3u8 information
+[info] bj6vm-_HObg: Downloading 1 format(s): 134+140
+[info] bj6vm-_HObg: Downloading 1 time ranges: 540.0-580.0
+[download] Destination: sample_553.mp4
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'https://rr5---sn-42u-i5os7.googlevideo.com/videoplayback?expire=1793320682&ei=ipLjatOnJI3lpt8P8-_S8QQ&ip=118.71.135.114&id=o-ADrouXBAnkwRon5OSbxGK8CAZW2beXLLcoiDlLRWVszg&itag=134&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=401&met=1793299082%2C&mh=dY&mm=18%2C26&mn=sn-42u-i5os7%2Csn-oguesnd6&ms=aub%2Conr&mv=m&mvi=5&pl=24&rms=aub%2Caub&initcwndbps=1753625&bui=AZFAFb-B3QCKhxARUhQ8eeOjLop3TsV8WhpvrNsFMU4RhrEuuJAHuTP3PDqI_QaBbuAriHsXTB-CInGn&spc=mpRQ_zMHMYhqhLPzCvqVErdWtXliHHClBi5LMUGRShiMvfRTiO284ALissSa&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=29581651&dur=1525.166&lmt=1793242873179923&mt=1793298582&fvip=1&epbp=1&keepalive=yes&fexp=51565115%2C52184236%2C52271470&c=VISIONOS&txp=4532234&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AE0s2JYwRQIhAMfZ4aX8bhQOZqwil3N2LFTSRStLsNAerUFQaAjBaEazAiB1up06XoItaBl9ZY8QcUPoLe_tONBMnZ5-ieXH-qQJpw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgYoZ6uEhz5hhp-u1QLvmV3hmTtHa05FSfmSyIR6sqaucCIF2JA7Di4Ye3iiUr7b0Y4L_stVHi3BCS2D2pkgXt3d9D':
+  Metadata:
+    major_brand     : dash
+    minor_version   : 0
+    compatible_brands: iso6avc1mp41
+    creation_time   : 2026-10-29T02:47:27.000000Z
+  Duration: 00:25:25.17, start: 0.000000, bitrate: 155 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x360 [SAR 1:1 DAR 16:9], 239 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      creation_time   : 2026-10-29T02:47:27.000000Z
+      handler_name    : ISO Media file produced by Google Inc.
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from 'https://rr5---sn-42u-i5os7.googlevideo.com/videoplayback?expire=1793320682&ei=ipLjatOnJI3lpt8P8-_S8QQ&ip=118.71.135.114&id=o-ADrouXBAnkwRon5OSbxGK8CAZW2beXLLcoiDlLRWVszg&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=401&met=1793299082%2C&mh=dY&mm=18%2C26&mn=sn-42u-i5os7%2Csn-oguesnd6&ms=aub%2Conr&mv=m&mvi=5&pl=24&rms=aub%2Caub&initcwndbps=1753625&bui=AZFAFb-B3QCKhxARUhQ8eeOjLop3TsV8WhpvrNsFMU4RhrEuuJAHuTP3PDqI_QaBbuAriHsXTB-CInGn&spc=mpRQ_zMHMYhqhLPzCvqVErdWtXliHHClBi5LMUGRShiMvfRTiO284ALissSa&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=24685321&dur=1525.225&lmt=1793241801837187&mt=1793298582&fvip=1&epbp=1&keepalive=yes&fexp=51565115%2C52184236%2C52271470&c=VISIONOS&txp=4532234&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AE0s2JYwRQIgOe_kIenjc9vu3fmoDLo6UR3rLKHSUMI4Jq1Jol-40l8CIQCvxBs76laNSqCGkEHQZ7JjjgMhlVCPL3qXb9hrL8pXqw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgYoZ6uEhz5hhp-u1QLvmV3hmTtHa05FSfmSyIR6sqaucCIF2JA7Di4Ye3iiUr7b0Y4L_stVHi3BCS2D2pkgXt3d9D':
+  Metadata:
+    major_brand     : dash
+    minor_version   : 0
+    compatible_brands: iso6mp41
+    creation_time   : 2026-10-29T02:41:59.000000Z
+    encoder         : Google
+  Duration: 00:25:25.23, start: 0.000000, bitrate: 129 kb/s
+  Stream #1:0[0x1](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2026-10-29T02:41:59.000000Z
+      handler_name    : ISO Media file produced by Google Inc.
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (copy)
+Output #0, mp4, to 'file:sample_553.mp4.part':
+  Metadata:
+    major_brand     : dash
+    minor_version   : 0
+    compatible_brands: iso6avc1mp41
+    encoder         : Lavf63.1.101
+  Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 640x360 [SAR 1:1 DAR 16:9], q=2-31, 239 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      creation_time   : 2026-10-29T02:47:27.000000Z
+      handler_name    : ISO Media file produced by Google Inc.
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2026-10-29T02:41:59.000000Z
+      handler_name    : ISO Media file produced by Google Inc.
+Press [q] to stop, [?] for help
+frame=   33 fps=0.0 q=-1.0 size=       0KiB time=00:00:01.25 bitrate=   0.3kbits/s speed=2.41x elapsed=0:00:00.51    frame=   57 fps= 55 q=-1.0 size=       0KiB time=00:00:02.25 bitrate=   0.2kbits/s speed=2.19x elapsed=0:00:01.02    frame=   69 fps= 45 q=-1.0 size=       0KiB time=00:00:02.85 bitrate=   0.1kbits/s speed=1.85x elapsed=0:00:01.54    frame=   87 fps= 42 q=-1.0 size=       0KiB time=00:00:03.60 bitrate=   0.1kbits/s speed=1.74x elapsed=0:00:02.07    frame=  114 fps= 44 q=-1.0 size=       0KiB time=00:00:04.74 bitrate=   0.1kbits/s speed=1.84x elapsed=0:00:02.57    frame=  116 fps= 37 q=-1.0 size=       0KiB time=00:00:04.80 bitrate=   0.1kbits/s speed=1.55x elapsed=0:00:03.09    frame=  135 fps= 37 q=-1.0 size=       0KiB time=00:00:05.57 bitrate=   0.1kbits/s speed=1.54x elapsed=0:00:03.60    frame=  151 fps= 37 q=-1.0 size=     256KiB time=00:00:06.27 bitrate= 334.4kbits/s speed=1.52x elapsed=0:00:04.12    frame=  167 fps= 36 q=-1.0 size=     256KiB time=00:00:06.94 bitrate= 302.0kbits/s speed= 1.5x elapsed=0:00:04.64    frame=  186 fps= 36 q=-1.0 size=     256KiB time=00:00:07.73 bitrate= 271.2kbits/s speed= 1.5x elapsed=0:00:05.15    frame=  196 fps= 35 q=-1.0 size=     256KiB time=00:00:08.15 bitrate= 257.3kbits/s speed=1.44x elapsed=0:00:05.66    frame=  213 fps= 34 q=-1.0 size=     256KiB time=00:00:08.85 bitrate= 237.0kbits/s speed=1.43x elapsed=0:00:06.17    frame=  223 fps= 33 q=-1.0 size=     256KiB time=00:00:09.26 bitrate= 226.3kbits/s speed=1.38x elapsed=0:00:06.71    frame=  231 fps= 32 q=-1.0 size=     256KiB time=00:00:09.61 bitrate= 218.1kbits/s speed=1.33x elapsed=0:00:07.22    frame=  265 fps= 34 q=-1.0 size=     256KiB time=00:00:11.03 bitrate= 190.1kbits/s speed=1.43x elapsed=0:00:07.73    frame=  272 fps= 33 q=-1.0 size=     512KiB time=00:00:11.31 bitrate= 370.8kbits/s speed=1.37x elapsed=0:00:08.24    frame=  285 fps= 33 q=-1.0 size=     512KiB time=00:00:11.86 bitrate= 353.4kbits/s speed=1.35x elapsed=0:00:08.76    frame=  314 fps= 34 q=-1.0 size=     512KiB time=00:00:13.07 bitrate= 320.8kbits/s speed=1.41x elapsed=0:00:09.27    frame=  356 fps= 36 q=-1.0 size=     512KiB time=00:00:14.81 bitrate= 283.1kbits/s speed=1.51x elapsed=0:00:09.80    frame=  390 fps= 38 q=-1.0 size=     512KiB time=00:00:16.23 bitrate= 258.4kbits/s speed=1.57x elapsed=0:00:10.31    frame=  434 fps= 40 q=-1.0 size=     512KiB time=00:00:18.06 bitrate= 232.2kbits/s speed=1.67x elapsed=0:00:10.82    frame=  434 fps= 38 q=-1.0 size=     512KiB time=00:00:18.06 bitrate= 232.2kbits/s speed=1.59x elapsed=0:00:11.35    frame=  441 fps= 37 q=-1.0 size=     512KiB time=00:00:18.37 bitrate= 228.3kbits/s speed=1.55x elapsed=0:00:11.86    frame=  472 fps= 38 q=-1.0 size=     768KiB time=00:00:19.64 bitrate= 320.2kbits/s speed=1.59x elapsed=0:00:12.37    frame=  535 fps= 42 q=-1.0 size=     768KiB time=00:00:22.27 bitrate= 282.5kbits/s speed=1.73x elapsed=0:00:12.89    frame=  544 fps= 41 q=-1.0 size=     768KiB time=00:00:22.64 bitrate= 277.9kbits/s speed=1.69x elapsed=0:00:13.40    frame=  559 fps= 40 q=-1.0 size=     768KiB time=00:00:23.26 bitrate= 270.4kbits/s speed=1.67x elapsed=0:00:13.91    frame=  585 fps= 40 q=-1.0 size=     768KiB time=00:00:24.36 bitrate= 258.3kbits/s speed=1.69x elapsed=0:00:14.44    frame=  668 fps= 45 q=-1.0 size=    1024KiB time=00:00:27.82 bitrate= 301.5kbits/s speed=1.86x elapsed=0:00:14.95    frame=  691 fps= 45 q=-1.0 size=    1024KiB time=00:00:28.77 bitrate= 291.6kbits/s speed=1.86x elapsed=0:00:15.47    frame=  705 fps= 44 q=-1.0 size=    1024KiB time=00:00:29.35 bitrate= 285.8kbits/s speed=1.84x elapsed=0:00:15.98    frame=  727 fps= 44 q=-1.0 size=    1024KiB time=00:00:30.28 bitrate= 277.0kbits/s speed=1.84x elapsed=0:00:16.49    frame=  748 fps= 44 q=-1.0 size=    1024KiB time=00:00:31.16 bitrate= 269.2kbits/s speed=1.83x elapsed=0:00:17.01    frame=  759 fps= 43 q=-1.0 size=    1024KiB time=00:00:31.60 bitrate= 265.4kbits/s speed= 1.8x elapsed=0:00:17.52    frame=  772 fps= 43 q=-1.0 size=    1024KiB time=00:00:32.16 bitrate= 260.8kbits/s speed=1.78x elapsed=0:00:18.05    frame=  784 fps= 42 q=-1.0 size=    1024KiB time=00:00:32.65 bitrate= 256.9kbits/s speed=1.76x elapsed=0:00:18.56    frame=  798 fps= 42 q=-1.0 size=    1024KiB time=00:00:33.23 bitrate= 252.4kbits/s speed=1.74x elapsed=0:00:19.07    frame=  828 fps= 42 q=-1.0 size=    1280KiB time=00:00:34.48 bitrate= 304.1kbits/s speed=1.76x elapsed=0:00:19.59    frame=  842 fps= 42 q=-1.0 size=    1280KiB time=00:00:35.06 bitrate= 299.0kbits/s speed=1.74x elapsed=0:00:20.10    frame=  871 fps= 42 q=-1.0 size=    1280KiB time=00:00:36.27 bitrate= 289.1kbits/s speed=1.76x elapsed=0:00:20.62    frame=  909 fps= 43 q=-1.0 size=    1280KiB time=00:00:37.85 bitrate= 277.0kbits/s speed=1.79x elapsed=0:00:21.13    [out#0/mp4 @ 000001e1a055c580] video:850KiB audio:625KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.053540%
+frame=  963 fps= 45 q=-1.0 Lsize=    1506KiB time=00:00:40.01 bitrate= 308.3kbits/s speed=1.85x elapsed=0:00:21.59    
+[download] 100% of    1.47MiB in 00:00:24 at 61.16KiB/s

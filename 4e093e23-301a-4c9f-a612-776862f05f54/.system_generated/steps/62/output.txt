@@ -1,0 +1,7 @@
+Task: 4e093e23-301a-4c9f-a612-776862f05f54/task-54
+Status: RUNNING
+Log: file:///C:/Users/tienc/.gemini/antigravity/brain/4e093e23-301a-4c9f-a612-776862f05f54/.system_generated/tasks/task-54.log
+Log output:
+<truncated 53 lines>
+itrate= 276.2kbits/s speed=2.02x elapsed=0:00:26.29    frame= 1296 fps= 48 q=-1.0 size=    1792KiB time=00:00:54.07 bitrate= 271.5kbits/s speed=2.02x elapsed=0:00:26.82    frame= 1296 fps= 47 q=-1.0 size=    1792KiB time=00:00:54.07 bitrate= 271.5kbits/s speed=1.98x elapsed=0:00:27.33    frame= 1306 fps= 47 q=-1.0 size=    1792KiB time=00:00:54.49 bitrate= 269.4kbits/s speed=1.96x elapsed=0:00:27.85    frame= 1332 fps= 47 q=-1.0 size=    1792KiB time=00:00:55.56 bitrate= 264.2kbits/s speed=1.96x elapsed=0:00:28.37    frame= 1348 fps= 47 q=-1.0 size=    1792KiB time=00:00:56.23 bitrate= 261.0kbits/s speed=1.95x elapsed=0:00:28.88    frame= 1363 fps= 46 q=-1.0 size=    1792KiB time=00:00:56.86 bitrate= 258.2kbits/s speed=1.93x elapsed=0:00:29.39    frame= 1374 fps= 46 q=-1.0 size=    1792KiB time=00:00:57.33 bitrate= 256.1kbits/s speed=1.92x elapsed=0:00:29.92    frame= 1388 fps= 46 q=-1.0 size=    1792KiB time=00:00:57.91 bitrate= 253.5kbits/s speed= 1.9x elapsed=0:00:30.42    
+Last progress: 0s ago

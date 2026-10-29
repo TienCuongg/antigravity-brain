@@ -1,0 +1,23 @@
+Command exited with code 0.
+
+Command output:
+
+Name                       Length
+----                       ------
+shot_01_duration_3.29s.jpg  33204
+shot_02_duration_3.88s.jpg  70702
+shot_03_duration_2.16s.jpg  48141
+shot_04_duration_2.05s.jpg  67756
+shot_05_duration_6.50s.jpg  32252
+shot_06_duration_5.91s.jpg  37648
+shot_07_duration_3.46s.jpg  41490
+shot_08_duration_3.67s.jpg  27794
+shot_09_duration_3.54s.jpg  33325
+shot_10_duration_1.17s.jpg  27545
+shot_11_duration_3.33s.jpg  59801
+shot_12_duration_6.00s.jpg  34745
+shot_13_duration_6.37s.jpg  53524
+shot_14_duration_2.67s.jpg  27972
+shot_15_duration_6.00s.jpg  58157
+
+

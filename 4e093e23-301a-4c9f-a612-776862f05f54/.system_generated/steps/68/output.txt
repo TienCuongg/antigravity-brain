@@ -1,0 +1,13 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: D:\YTB\Video_Test_ANinh\FILM AI
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         30-Oct-26   1:44 AM                frames_00_to_01                                                      
+
+

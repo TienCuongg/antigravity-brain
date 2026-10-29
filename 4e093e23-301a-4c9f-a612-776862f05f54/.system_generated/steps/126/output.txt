@@ -1,0 +1,5 @@
+Command exited with code 0.
+
+Command output:
+Total size: 2.06 MB
+Large files (>15MB): 0

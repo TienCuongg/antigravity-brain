@@ -1,0 +1,171 @@
+Command exited with code 0.
+
+Command output:
+
+   
+  
+> 00:08:58.800 --> 00:09:01.190 align:start position:0%
+  Domino's champion of my college
+  dormatory.<00:08:59.519><c> Terrence,</c>
+  
+> 00:09:01.190 --> 00:09:01.200 align:start position:0%
+  dormatory. Terrence,
+   
+  
+> 00:09:01.200 --> 00:09:08.150 align:start position:0%
+  dormatory. Terrence,
+> sit<00:09:01.440><c> down</c><00:09:01.600><c> and</c><00:09:01.839><c> learn</c><00:09:02.080><c> something.</c>
+  
+> 00:09:08.150 --> 00:09:08.160 align:start position:0%
+   
+   
+  
+> 00:09:08.160 --> 00:09:11.030 align:start position:0%
+   
+> Domino.<00:09:09.120><c> That's</c><00:09:09.440><c> three</c><00:09:09.839><c> games</c><00:09:10.240><c> 
+straight.</c>
+  
+> 00:09:11.030 --> 00:09:11.040 align:start position:0%
+  Domino. That's three games straight.
+   
+  
+> 00:09:11.040 --> 00:09:12.550 align:start position:0%
+  Domino. That's three games straight.
+> Tell<00:09:11.279><c> your</c><00:09:11.440><c> dormatory</c><00:09:12.080><c> they've</c><00:09:12.399><c> been</c>
+  
+> 00:09:12.550 --> 00:09:12.560 align:start position:0%
+  Tell your dormatory they've been
+   
+  
+> 00:09:12.560 --> 00:09:14.389 align:start position:0%
+  Tell your dormatory they've been
+  dethroned.
+  
+> 00:09:14.389 --> 00:09:14.399 align:start position:0%
+  dethroned.
+   
+  
+> 00:09:14.399 --> 00:09:17.110 align:start position:0%
+  dethroned.
+> &gt;&gt; Rematch<00:09:15.440><c> tomorrow.</c><00:09:16.240><c> Same</c><00:09:16.480><c> 
+table.</c><00:09:16.880><c> I'm</c>
+  
+> 00:09:17.110 --> 00:09:17.120 align:start position:0%
+  &gt;&gt; Rematch tomorrow. Same table. I'm
+   
+  
+> 00:09:17.120 --> 00:09:23.190 align:start position:0%
+  &gt;&gt; Rematch tomorrow. Same table. I'm
+> practicing<00:09:17.519><c> tonight.</c>
+  
+> 00:09:23.190 --> 00:09:23.200 align:start position:0%
+   
+   
+  
+> 00:09:23.200 --> 00:09:25.030 align:start position:0%
+   
+> Microphone<00:09:23.760><c> on</c><00:09:24.000><c> this</c><00:09:24.240><c> camera</c><00:09:24.480><c> 
+is</c><00:09:24.800><c> working</c>
+  
+> 00:09:25.030 --> 00:09:25.040 align:start position:0%
+  Microphone on this camera is working
+   
+  
+> 00:09:25.040 --> 00:09:27.829 align:start position:0%
+  Microphone on this camera is working
+> again,<00:09:25.360><c> Mr.</c><00:09:25.600><c> Ellson.</c><00:09:26.800><c> Sorry</c><00:09:27.120><c> 
+it</c><00:09:27.360><c> took</c><00:09:27.519><c> me</c><00:09:27.680><c> a</c>
+  
+> 00:09:27.829 --> 00:09:27.839 align:start position:0%
+  again, Mr. Ellson. Sorry it took me a
+   
+  
+> 00:09:27.839 --> 00:09:32.070 align:start position:0%
+  again, Mr. Ellson. Sorry it took me a
+  week.
+  
+> 00:09:32.070 --> 00:09:32.080 align:start position:0%
+   
+   
+  
+> 00:09:32.080 --> 00:09:34.870 align:start position:0%
+   
+> Look<00:09:32.240><c> at</c><00:09:32.399><c> the</c><00:09:32.560><c> front</c><00:09:32.800><c> 
+gate</c><00:09:33.120><c> camera.</c>
+  
+> 00:09:34.870 --> 00:09:34.880 align:start position:0%
+  Look at the front gate camera.
+   
+  
+> 00:09:34.880 --> 00:09:37.030 align:start position:0%
+  Look at the front gate camera.
+> A<00:09:35.120><c> man</c><00:09:35.279><c> in</c><00:09:35.440><c> a</c><00:09:35.600><c> gray</c><00:09:35.839><c> 
+sedan</c><00:09:36.320><c> across</c><00:09:36.640><c> the</c><00:09:36.800><c> street</c>
+  
+> 00:09:37.030 --> 00:09:37.040 align:start position:0%
+  A man in a gray sedan across the street
+   
+  
+> 00:09:37.040 --> 00:09:38.630 align:start position:0%
+  A man in a gray sedan across the street
+> has<00:09:37.360><c> photographed</c><00:09:37.920><c> everyone</c><00:09:38.160><c> who</c><00:09:38.399><c> 
+came</c>
+  
+> 00:09:38.630 --> 00:09:38.640 align:start position:0%
+  has photographed everyone who came
+   
+  
+> 00:09:38.640 --> 00:09:44.389 align:start position:0%
+  has photographed everyone who came
+> through<00:09:38.880><c> that</c><00:09:39.120><c> gate.</c>
+  
+> 00:09:44.389 --> 00:09:44.399 align:start position:0%
+   
+   
+  
+> 00:09:44.399 --> 00:09:45.990 align:start position:0%
+   
+> I'll<00:09:44.720><c> have</c><00:09:44.800><c> my</c><00:09:45.040><c> people</c><00:09:45.279><c> 
+keep</c><00:09:45.440><c> an</c><00:09:45.600><c> eye</c><00:09:45.680><c> on</c><00:09:45.760><c> it,</c>
+  
+> 00:09:45.990 --> 00:09:46.000 align:start position:0%
+  I'll have my people keep an eye on it,
+   
+  
+> 00:09:46.000 --> 00:09:48.790 align:start position:0%
+  I'll have my people keep an eye on it,
+> Mr.<00:09:46.240><c> Ellison.</c><00:09:47.040><c> Nobody</c><00:09:47.440><c> gets</c><00:09:47.680><c> 
+past</c><00:09:47.920><c> that</c><00:09:48.240><c> gate</c>
+  
+> 00:09:48.790 --> 00:09:48.800 align:start position:0%
+  Mr. Ellison. Nobody gets past that gate
+   
+  
+> 00:09:48.800 --> 00:09:55.750 align:start position:0%
+  Mr. Ellison. Nobody gets past that gate
+> without<00:09:49.200><c> me,</c><00:09:50.080><c> without</c><00:09:50.480><c> me</c><00:09:50.720><c> knowing.</c>
+  
+> 00:09:55.750 --> 00:09:55.760 align:start position:0%
+   
+   
+  
+> 00:09:55.760 --> 00:09:59.509 align:start position:0%
+   
+> And<00:09:55.920><c> the</c><00:09:56.080><c> bid</c><00:09:56.399><c> files</c><00:09:56.800><c> 
+on</c><00:09:57.040><c> my</c><00:09:57.200><c> computer.</c>
+  
+> 00:09:59.509 --> 00:09:59.519 align:start position:0%
+  And the bid files on my computer.
+   
+  
+> 00:09:59.519 --> 00:10:00.870 align:start position:0%
+  And the bid files on my computer.
+> I<00:09:59.680><c> want</c><00:09:59.839><c> them</c><00:10:00.000><c> locked</c><00:10:00.240><c> 
+down</c><00:10:00.399><c> tighter</c><00:10:00.720><c> than</c>
+  
+  00:10:00.870 --> 00:10:00.880 align:start position:0%
+  I want them locked down tighter than
+   
+  
+
+

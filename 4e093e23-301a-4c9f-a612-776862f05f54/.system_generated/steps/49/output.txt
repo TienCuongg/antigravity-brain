@@ -1,0 +1,12 @@
+Task: 4e093e23-301a-4c9f-a612-776862f05f54/task-47
+Status: DONE
+Log: file:///C:/Users/tienc/.gemini/antigravity/brain/4e093e23-301a-4c9f-a612-776862f05f54/.system_generated/tasks/task-47.log
+Log output:
+<truncated 6 lines>
+rd�He Followed Them And Froze When He Saw Why | 1853 | 20261027
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+She Took In Twin Orphans No One Wanted�25 Years Later, They Came Back To Save Her | 1755 | 20261024
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+�Someone Is Poisoning You!� Maid Whispered To The Billionaire�What Happened Next Surprised Everyone | 2056 | 20261023
+
+Last progress: 0s ago

@@ -1,0 +1,7 @@
+Command exited with code 1.
+
+Command output:
+  File "<string>", line 7
+    push_script = '''@echo off
+                  ^
+SyntaxError: unterminated triple-quoted string literal (detected at line 14)
