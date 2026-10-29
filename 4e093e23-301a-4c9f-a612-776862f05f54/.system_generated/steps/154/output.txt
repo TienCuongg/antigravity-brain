@@ -1,0 +1,9 @@
+Command exited with code 0.
+
+Command output:
+warning: in the working copy of 'pull_brain.bat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'push_brain.bat', LF will be replaced by CRLF the next time Git touches it
+[main 8b86c71] update smart push and pull scripts
+ 2 files changed, 28 insertions(+), 10 deletions(-)
+To https://github.com/TienCuongg/antigravity-brain.git
+   e665fdc..8b86c71  main -> main
